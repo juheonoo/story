@@ -1,0 +1,9 @@
+{
+  "name": "오늘우리 - 하루 세 장 추억 저장",
+  "short_name": "오늘우리",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f1ea",
+  "theme_color": "#8c6b52",
+  "icons": []
+}
